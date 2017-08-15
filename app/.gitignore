@@ -1,0 +1,6 @@
+# Ignore idea directory
+.idea/
+
+# Ignore target builds
+target/
+cmake-build-debug/
